@@ -1,60 +1,27 @@
 # 👋 Welcome to my profile!
+# 👋 Hi, I'm Vikas Singh  
+### 🚀 About Me
+I'm a passionate **Full Stack Java Developer** and **Creative Web & Android App Developer** who loves bringing ideas to life through clean code and elegant design.  
 
-I'm **Vikas Singh**, a passionate and versatile professional.
+- 💻 **Full Stack Developer** (Java, JavaScript, C, C++)  
+- 🌐 **Web Developer** — Building dynamic, responsive websites  
+- 🎨 **UI/UX Designer** — Creating visually engaging and user-friendly designs  
+- 🤖 **Android App Developer** — Turning mobile ideas into reality  
+- 💡 **Problem Solver** — I love challenges and finding smart solutions  
+### 🛠️ Currently Working On
+- Advanced **Java Web Applications**  
+- **Creative UI/UX Projects**  
+- **Android Development** integrating AI tools  
 
----
+### 🌍 Portfolio
+🔗 [ikas-developer-portfolio.vercel.app](https://ikas-developer-portfolio.vercel.app)
 
-### 🔭 I’m currently working on
-- Advanced **Java Web Applications**
-- **Creative UI/UX Projects**
-- **Android App Development** integrating AI tools
 
----
-
-### 🌱 I’m currently learning
-- **Spring Boot & REST APIs**
-- **React.js** for front-end development
-- **Machine Learning integration** with web apps
-
----
-
-### 👯 I’m looking to collaborate on
-- **Open Source Projects**
-- **Freelance Web or App Development**
-- **AI-Powered Tools & Automation Projects**
-
----
-
-### 🤔 I’m looking for help with
-- Improving my **AI & Data Structures** knowledge  
-- Building a **developer community** and **tech projects** together
-
----
-
-### 💬 Ask me about
-- **Full Stack Java Development**
-- **Web Design & UI/UX Principles**
-- **Android App Development**
-- **Freelancing and Productivity Tools**
-
----
-
-### 📫 How to reach me
-- **Portfolio:** [ikas-developer-portfolio.vercel.app](https://ikas-developer-portfolio.vercel.app)  
+### 📫 Connect With Me
 - **Email:** [vikas.singh66551@gmail.com](mailto:vikas.singh66551@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/vikas-singh-1b5682232](https://www.linkedin.com/in/vikas-singh-1b5682232/)
 
----
-
-### ⚡ Fun fact
-> I believe creativity + logic = innovation 🚀  
+###⚡ Fun fact
+ >I believe creativity + logic = innovation 🚀  
 > “Live a life you will remember.”
-
----
-
-### 😄 Pronouns
-He / Him  
-
----
-
-✨ *Let’s collaborate and create something amazing together!* 🚀
+✨ *Let’s collaborate and build something amazing together!* 🚀
