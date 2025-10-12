@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Java Developer** and **Creative Web & Android App 
 - **Creative UI/UX Projects**  
 - **Android Development** integrating AI tools  
 ### 🌍 Portfolio
-🔗 [ikas-developer-portfolio.vercel.app](https://vikas-developer-portfolio.vercel.app/)
+🔗 [vikas-developer-portfolio.vercel.app](   https://vikas-developer-portfolio.vercel.app/)
 ### 📫 Connect With Me
 - **Email:** [vikas.singh66551@gmail.com](mailto:vikas.singh66551@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/vikas-singh-1b5682232](https://www.linkedin.com/in/vikas-singh-1b5682232/)
