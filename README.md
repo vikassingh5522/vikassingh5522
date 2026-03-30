@@ -87,15 +87,15 @@ I'm a passionate **Full Stack Developer** who loves building scalable applicatio
 
 ## 💼 Experience  
 
-### 💻 Full Stack Developer — Sheryians Pvt. Ltd.  
+### 💻 Full Stack Developer 
 - Built 5+ web apps (React + Node.js)  
 - Improved performance by 30%  
 
-### 🤖 AI Developer Intern — EverythingAboutAI.tech  
+### 🤖 AI Developer Intern 
 - Built AI agents using Claude & OpenAI  
 - Scalable systems with 500+ concurrent users  
 
-### ☕ Java Full Stack Trainee — Archer Infotech  
+### ☕ Java Full Stack Trainee 
 - Developed enterprise apps using Spring Boot  
 - Reduced DB query time by 35%  
 
