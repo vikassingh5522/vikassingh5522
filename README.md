@@ -83,28 +83,8 @@ I'm a passionate **Full Stack Developer** who loves building scalable applicatio
 - JWT Authentication + Payment Integration  
 - 10,000+ products managed  
 
----
 
-## 💼 Experience  
 
-### 💻 Full Stack Developer 
-- Built 5+ web apps (React + Node.js)  
-- Improved performance by 30%  
-
-### 🤖 AI Developer Intern 
-- Built AI agents using Claude & OpenAI  
-- Scalable systems with 500+ concurrent users  
-
-### ☕ Java Full Stack Trainee 
-- Developed enterprise apps using Spring Boot  
-- Reduced DB query time by 35%  
-
----
-
-## 🎓 Education  
-🎓 B.E. Computer Engineering (SPPU) — CGPA: 8.0  
-
----
 
 ## 🏆 Achievements  
 - 🥇 Top 10 Finalist — Winjit Hackathon (200+ teams)  
