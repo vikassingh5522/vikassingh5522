@@ -54,42 +54,12 @@ I'm a passionate **Full Stack Developer** who loves building scalable applicatio
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
-
-## 🚀 Featured Projects  
-
-### 🔹 AI-Powered Learning & Interview Platform  
-- Built scalable platform with **AI mock interviews & certifications**  
-- Integrated **Claude API & OpenAI API**  
-- 1,000+ users  
-
----
-
-### 🔹 TradeLens (Microservices App)  
-- Java + Spring Boot microservices architecture  
-- Real-time data APIs  
-- React frontend  
-
----
-
-### 🔹 AI Exam Invigilation System  
-- AI-based monitoring using **Gemini AI**  
-- Reduced manual effort by 60%  
-- 500+ sessions handled  
-
----
-
-### 🔹 Full Stack E-Commerce Platform  
-- JWT Authentication + Payment Integration  
-- 10,000+ products managed  
-
-
 
 
 ## 🏆 Achievements  
 - 🥇 Top 10 Finalist — Winjit Hackathon (200+ teams)  
 - 📄 Published 2 Research Papers (Impact Factor 8.536)  
-- 🌐 500+ LinkedIn connections  
+- 🌐 2000+ LinkedIn connections  
 
 ---
 
