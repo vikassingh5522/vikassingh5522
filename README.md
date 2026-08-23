@@ -72,7 +72,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable applicatio
 ---
 
 ## 📫 Contact Me  
-📧 vikas.singh66551@gmail.com  
+📧 vikas.kumar.singh.job123@gmail.com  
 
 ---
 
