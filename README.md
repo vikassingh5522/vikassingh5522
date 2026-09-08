@@ -8,7 +8,7 @@
 I'm a passionate **Full Stack Developer** who loves building scalable applications and integrating **AI-powered solutions** into real-world systems.  
 
 - 💻 Full Stack Developer (Java + JavaScript Ecosystem)  
-- 🤖 AI Developer (LLMs, AI Agents, RAG .OpenAI & Claude API)  
+- 🤖 AI Developer (LLMs, Gen AI , AI Agents, RAG , Ai tools )  
 - 🌐 Web Developer (React, Next.js, Spring Boot)  
 - 📱 Android Developer (Java, Firebase)  
 - 🎯 Strong in DSA, OOP, and System Design  
@@ -57,7 +57,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable applicatio
 
 
 ## 🏆 Achievements  
-- 🥇 Top 10 Finalist — Winjit Hackathon (200+ teams)  
+- 🥇 Top 10 Finalist  Winjit Hackathon (200+ teams)  
 - 📄 Published 2 Research Papers (Impact Factor 8.536)  
 - 🌐 2000+ LinkedIn connections  
 
@@ -77,4 +77,4 @@ I'm a passionate **Full Stack Developer** who loves building scalable applicatio
 ---
 
 ## ⚡ Fun Fact  
-💡 I don’t just write code — I build **scalable systems + AI-powered solutions** 🚀  
+💡 I don’t just write code  I build **scalable systems + AI-powered solutions** 🚀  
