@@ -8,7 +8,7 @@
 I'm a passionate **Full Stack Developer** who loves building scalable applications and integrating **AI-powered solutions** into real-world systems.  
 
 - 💻 Full Stack Developer (Java + JavaScript Ecosystem)  
-- 🤖 AI Developer (LLMs, AI Agents, OpenAI & Claude API)  
+- 🤖 AI Developer (LLMs, AI Agents, RAG .OpenAI & Claude API)  
 - 🌐 Web Developer (React, Next.js, Spring Boot)  
 - 📱 Android Developer (Java, Firebase)  
 - 🎯 Strong in DSA, OOP, and System Design  
