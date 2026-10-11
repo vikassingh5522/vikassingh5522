@@ -3,6 +3,8 @@
 
 🚀 **Backend-Focused Full Stack Developer | AI-Integrated Developer**
 
+![alt text](video.gif)
+
 ---
 
 ## 🌟 About Me
