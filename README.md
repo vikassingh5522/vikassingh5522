@@ -14,10 +14,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable applicatio
 - 🎯 Strong in DSA, OOP, and System Design  
 
 ---
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="165" viewBox="0 0 850 165">
-<defs>
-<filter id="cellglow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
+
 <rect width="850" height="165" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 <text x="34" y="18" fill="#8b949e" font-size="10" font-family="system-ui,sans-serif">Jan</text>
 <text x="90" y="18" fill="#8b949e" font-size="10" font-family="system-ui,sans-serif">Feb</text>
