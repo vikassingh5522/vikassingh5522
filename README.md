@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Vikas Singh
 
-🚀  Full Stack Developer | AI-Integrated Developer**
+🚀  Full Stack Developer | AI-Integrated Developer
 
 ![alt text](video.gif)
 
