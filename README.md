@@ -16,8 +16,7 @@ I'm a **Backend-Focused Full Stack Developer** passionate about building scalabl
 - 🌐 **Frontend:** React.js, Next.js, JavaScript, TypeScript, Tailwind CSS .
 - 🤖 **AI & GenAI:** LLMs, AI Agents, RAG, MCP, AI Tool Integration .
 - 🐳 **DevOps:** Docker, CI/CD, GitHub Actions, Containerization .
-- ☁️ **Cloud & Deployment:** AWS EC2, S3,    RDS, IAM, VPC, CloudWatch, Docker, Docker Compose, Linux, Nginx, Cloudflare R2, CI/CD, GitHub Actions, Environment Configuration, Production Deployment
-
+- ☁️ **Cloud & Deployment:** AWS EC2,VPC, CloudWatch, Docker,Linux, Nginx, Cloudflare  ,CI/CD, GitHub Actions, Production Deployment
 - 📱 **Android:** Java, Firebase
 - 🧠 **Core Skills:** DSA, OOP, System Design, Problem Solving .
 
