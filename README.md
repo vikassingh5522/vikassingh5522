@@ -29,7 +29,7 @@ I'm a **Backend-Focused Full Stack Developer** passionate about building scalabl
 
 
 ## 🏆 Achievements  
-- 🥇 Top 10 Finalist  Winjit Hackathon (200+ teams)  
+- 🥇 Top 2 Finalist  Winjit Hackathon (200+ teams)  
 - 📄 Published 2 Research Papers (Impact Factor 8.536)  
 - 🌐 2000+ LinkedIn connections  
 
